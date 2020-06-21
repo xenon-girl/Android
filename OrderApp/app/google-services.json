@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "442644022971",
+    "firebase_url": "https://tentapp-5.firebaseio.com",
+    "project_id": "tentapp-5",
+    "storage_bucket": "tentapp-5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442644022971:android:e591a3737fc0503a414b9e",
+        "android_client_info": {
+          "package_name": "com.example.orderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442644022971-9gebln0r1kj3rbu4dplakfvi5lchq981.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.orderapp",
+            "certificate_hash": "6ba56aa21f82b5a4ff778cf0c1078f7c218a5cfa"
+          }
+        },
+        {
+          "client_id": "442644022971-710i1a77b2s9t72m6ifbasobaj7h2hri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0N1eIq9nKr7tgTYbgHoJ4uk-SDfLsDmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442644022971-710i1a77b2s9t72m6ifbasobaj7h2hri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
