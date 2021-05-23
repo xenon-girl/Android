@@ -1,4 +1,3 @@
-
 # Android App To Order Tent Accessories Online
 ## About the project
 ____
@@ -46,7 +45,6 @@ ____
 ## Project Architecture
 ----
 ```
-
 Android/OrderApp/app/src/main/
 ├── java
 │   ├── adapter/*
