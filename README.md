@@ -18,7 +18,7 @@ Clone the repo, open the project in Android Studio, hit "Run". **Done!**
 ## Demo of the app
 ____
 <br />
-&nbsp;&nbsp;
+<p align="center">
 <img src="https://user-images.githubusercontent.com/48390770/119239492-07187100-bb67-11eb-88d9-be5b3187cf69.jpg" 
 alt="drawing" width="250" height="500"/> 
 &nbsp;&nbsp;&nbsp;
@@ -27,6 +27,7 @@ alt="drawing" width="250" height="500"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/48390770/119239031-d84ccb80-bb63-11eb-8d9c-c35e40060f3b.jpg" 
 alt="drawing" width="250" height="500"/> 
+</p>
 <br />
  
 <br />
