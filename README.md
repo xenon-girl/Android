@@ -12,11 +12,10 @@ Clone this repository and import into **Android Studio**
 git clone https://github.com/xenon-girl/Android.git
 ```
 Clone the repo, open the project in Android Studio, hit "Run". **Done!**
-
 <br />
 
 ## Demo of the app
-____
+
 <br />
 <p align="center">
 <img src="https://user-images.githubusercontent.com/48390770/119239492-07187100-bb67-11eb-88d9-be5b3187cf69.jpg" 
@@ -29,8 +28,6 @@ alt="drawing" width="250" height="500"/>
 alt="drawing" width="250" height="500"/> 
 </p>
 <br />
- 
-<br />
 
 ## External Dependencies
 ____
@@ -40,7 +37,6 @@ ____
 - Firebase (com.google.firebase:firebase-database:19.3.0)
 - Firebase Analytics (com.google.firebase:firebase-analytics:17.4.2)
 - Glide (com.github.bumptech.glide:glide:4.11.0)
-
 <br />
 
 ## Project Architecture
@@ -80,8 +76,6 @@ Android/OrderApp/app/src/main/
 ## Maintainers
 This project is mantained by:
 * [Swati Deshwal](http://github.com/xenon-girl)
-
-<br />
 
 ## Contributing
 ____
