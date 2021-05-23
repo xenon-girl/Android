@@ -1,12 +1,10 @@
 # Android App To Order Tent Accessories Online
-## About the project
 ____
-
+## About the project
 Automate the process to orderthe tent accessories like Mattresses, Chairs, Crockery, etc. on rent for all types of events.
 <br />
 
 ## Installation
-____
 Clone this repository and import into **Android Studio**
 ```bash
 git clone https://github.com/xenon-girl/Android.git
@@ -30,7 +28,6 @@ alt="drawing" width="250" height="500"/>
 <br />
 
 ## External Dependencies
-____
 - Cirle Image (de.hdodenhof:circleimageview:3.1.0)
 - SpotsDialog (com.github.d-max:spots-dialog:1.1@aar)
 - Butter Knife (com.jakewharton:butterknife:10.2.1)
@@ -40,7 +37,6 @@ ____
 <br />
 
 ## Project Architecture
-----
 ```
 Android/OrderApp/app/src/main/
 ├── java
@@ -78,7 +74,6 @@ This project is mantained by:
 * [Swati Deshwal](http://github.com/xenon-girl)
 
 ## Contributing
-____
 1. Fork it
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Commit your changes (git commit -m 'Add some feature')
